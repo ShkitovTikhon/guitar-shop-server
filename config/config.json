@@ -1,0 +1,30 @@
+{
+  "development": {
+    "username": "guitarshopdb_loveseasum",
+    "password": "69b9b1ac7b41c85e50afa99256e6886446903610",
+    "database": "guitarshopdb_loveseasum",
+    "host": "rtn.h.filess.io",
+    "dialect": "mysql",
+    "port": 3307
+  },
+  "test": {
+    "username": "guitarshopdb_loveseasum",
+    "password": "69b9b1ac7b41c85e50afa99256e6886446903610",
+    "database": "guitarshopdb_loveseasum",
+    "host": "rtn.h.filess.io",
+    "dialect": "mysql",
+    "port": 3307
+  },
+  "production": {
+    "username": "guitarshopdb_loveseasum",
+    "password": "69b9b1ac7b41c85e50afa99256e6886446903610",
+    "database": "guitarshopdb_loveseasum",
+    "host": "rtn.h.filess.io",
+    "dialect": "mysql",
+    "port": 3307
+  }
+}
+
+
+
+
