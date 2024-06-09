@@ -19,7 +19,7 @@ async function bootstrap() {
 
   app.enableCors({
     credentials: true,
-    origin: ['http://localhost:3001', 'https://guitar-shop-client-i317pgru3-shkitovtikhons-projects.vercel.app'],
+    origin: ['http://localhost:3001', 'https://guitar-shop-client-a1124lnp4-shkitovtikhons-projects.vercel.app/'],
   });
 
   const config = new DocumentBuilder()
